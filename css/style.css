@@ -20,6 +20,7 @@ body {
 
 #page-wrapper{
   background-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aspace/Milky_way.jpg");
+    height:700px;
 }
 
 body {
@@ -44,8 +45,4 @@ tr:nth-child(even) {
 
 tr:nth-child(odd) {
  font-family: 'Martian Mono', monospace; 
-}
-
-#fill {
-  
 }
