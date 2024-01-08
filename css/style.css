@@ -17,7 +17,7 @@ body {
   margin: 0 auto;
   padding: 1em;
     background-image: url(https://pngfre.com/wp-content/uploads/moon-58-1024x1024.png);
-    background-size: 100% 100%;   
+    background-size: 100% 100%;  
   
 }
 
@@ -35,6 +35,7 @@ h1 {font-size: 4em;
 #center {
   width: 960px;
   text-align: center;
+   justify-content: center;
   
 }
 
