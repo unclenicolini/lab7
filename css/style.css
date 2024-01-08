@@ -1,4 +1,51 @@
 td, th {
 	border: 1px solid;
   }
+
+th {
+  background-color: #808080;
+  color: white;
+}
+
+body {
+    background-color: #000000;
+    color: #FAFAFA ;
+}
   
+#main-content{
+  width: 960px;
+  margin: 0 auto;
+  padding: 1em
+}
+
+#page-wrapper{
+  background-image: url("https://scp-wiki.wdfiles.com/local--files/theme%3Aspace/Milky_way.jpg");
+}
+
+body {
+font-family: 'Urbanist', 'Helvetica', sans-serif; 
+}
+
+h1 {font-size: 4em;
+  font-weight: 900;
+  text-decoration: underline dotted;
+}
+
+#center {
+  width: 960px;
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+  color: #000000    
+    
+}
+
+tr:nth-child(odd) {
+ font-family: 'Martian Mono', monospace; 
+}
+
+#fill {
+  
+}
